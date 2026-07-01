@@ -1,15 +1,15 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### AI Engineering
-![RAG](https://img.shields.io/badge/RAG_Systems-111827?style=for-the-badge)
-![VectorDB](https://img.shields.io/badge/LanceDB-111827?style=for-the-badge)
-![GraphDB](https://img.shields.io/badge/Knowledge_Graph-0F766E?style=for-the-badge)
-![Ontology](https://img.shields.io/badge/Ontology_Modeling-065F46?style=for-the-badge)
-![RDF/OWL](https://img.shields.io/badge/OWL-374151?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/VectorDB-111827?style=for-the-badge)
+![GraphDB](https://img.shields.io/badge/GraphDB-0F766E?style=for-the-badge)
+![Ontology](https://img.shields.io/badge/Ontology-065F46?style=for-the-badge)
+![RDF/OWL](https://img.shields.io/badge/RDF%2FOWL-374151?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![LoRA/SFT](https://img.shields.io/badge/LoRA%20%2F%20SFT-DC2626?style=for-the-badge)
+![LoRA/SFT](https://img.shields.io/badge/LoRA%2FSFT-DC2626?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-F97316?style=for-the-badge)
