@@ -1,9 +1,16 @@
-## Tech Stack
+## Skills
 
-### Main
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,react,mysql,docker,git,github,vscode)](https://skillicons.dev)
+**Languages**  
+Python · JavaScript
 
-### AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+**AI Engineering**  
+RAG Systems · Hybrid Retrieval · Reranking · Knowledge Graph  
+Ontology Modeling · OWL · Neo4j · LanceDB  
+LLM Fine-tuning · LoRA · SFT · PyTorch · Transformers · PEFT · TRL · Unsloth  
+LLM Serving & Evaluation · vLLM · RAGAS
+
+**Backend**  
+FastAPI · Pydantic · SQLite · REST API · API Design
+
+**Frontend**  
+TypeScript · Next.js · Expo · Streamlit · HTML · CSS
